@@ -83,6 +83,4 @@
       $_SESSION['msg'] = "<i><b>Passageiro não encontrado.<b></i>";
       header("Location: consulta_pass.php");
     }
-
-
   }
