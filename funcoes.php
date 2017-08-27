@@ -84,3 +84,6 @@
       header("Location: consulta_pass.php");
     }
   }
+
+  function registerPlane(){
+    
